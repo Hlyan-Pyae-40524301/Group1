@@ -3,3 +3,6 @@
 [![LICENSE](https://img.shields.io/github/license/Hlyan-Pyae-40524301/Group1.svg?style=flat-square)](https://github.com/Hlyan-Pyae-40524301/Group1/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/Hlyan-Pyae-40524301/Group1/all.svg?style=flat-square)](https://github.com/Hlyan-Pyae-40524301/Group1/releases)
+
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Hlyan-Pyae-40524301/sem/main.yml?branch=develop)
